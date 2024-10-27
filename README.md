@@ -37,13 +37,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
