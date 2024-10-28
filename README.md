@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">A web developer, passionate about creating new projects</h3>
 
 ###
